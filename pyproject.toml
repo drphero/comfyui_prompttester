@@ -1,0 +1,17 @@
+[project]
+name = "comfyui_prompttester"
+version = "1.0.0"
+description = "Automatically tests the impact of each phrase in a prompt by generating images with one phrase omitted at a time."
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = []
+dependencies = []
+
+
+[project.urls]
+Repository = "https://github.com/drphero/comfyui_prompttester"
+
+
+[tool.comfy]
+PublisherId = "drphero"
+DisplayName = "ComfyUI-PromptTester"
