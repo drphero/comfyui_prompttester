@@ -17,7 +17,7 @@ The **Prompt Tester** is a custom ComfyUI node that helps analyze the influence 
 
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/drphero/comfyui-prompttester.git
+   git clone https://github.com/drphero/comfyui_prompttester.git
    ```
 
 3. **Restart ComfyUI** to load the new node.
